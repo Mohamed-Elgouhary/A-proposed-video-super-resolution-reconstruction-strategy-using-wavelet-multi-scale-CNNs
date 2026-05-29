@@ -47,23 +47,6 @@ paper/
 
 Contains citation information and publication-related metadata.
 
-```text
-src/
-```
-
-Reserved for cleaned Python source code if the notebook implementation is later converted into reusable scripts.
-
-```text
-data/
-```
-
-Placeholder for dataset instructions. Large datasets should not be uploaded directly to GitHub.
-
-```text
-results/
-```
-
-Placeholder for sample results, figures, reconstructed frames, and evaluation outputs.
 
 ## Methods
 
